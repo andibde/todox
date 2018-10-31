@@ -2,7 +2,7 @@
   "name": "ToDoX Web",
   "short_name": "ToDoX",
   "lang": "en-US",
-  "start_url": "index.html",
+  "start_url": "https://realyellowdev.github.io/todox/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#237aff",
