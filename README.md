@@ -8,5 +8,6 @@ ToDoX is a Open Source To-Do List App for the Browser
 [![Chrome Badge](https://realyellowdev.github.io/todox/ChromeWebStore_Badge.png)](#)
 
 # Web App
+How to add the Web App:
 
 [![Screenshot](https://realyellowdev.github.io/todox/screenshot.png)](#)
