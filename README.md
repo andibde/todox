@@ -10,4 +10,4 @@ ToDoX is a Open Source To-Do List App for the Browser
 # Web App
 How to add the Web App:
 
-[![Screenshot](https://realyellowdev.github.io/todox/screenshot.png)](#)
+[![Screenshot](https://realyellowdev.github.io/todox/screen.png)](#)
