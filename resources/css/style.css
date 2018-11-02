@@ -9,6 +9,12 @@ body, input, button {
   font-family: 'Roboto', sans-serif;
 }
 
+div.center {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
 .noFill {
   fill: none;
 }
