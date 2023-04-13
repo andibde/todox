@@ -6,7 +6,8 @@ ToDoX is a Open Source To-Do List App for the Browser
 # Browser Extensions
 [![Firefox Badge](https://andibde.github.io/todox/AMO-button_1.png)](https://addons.mozilla.org/de/firefox/addon/todox/)
 [![Chrome Badge](https://andibde.github.io/todox/ChromeWebStore_Badge.png)](#)
-[![Google Play Store Badge](/Neues Projekt.png)](https://play.google.com/store/apps/details?id=de.gigprojekt.todox)
+[![Google Play Store Badge](https://andibde.github.io/todox/Neues%20Projekt.png)](https://play.google.com/store/apps/details?id=de.gigprojekt.todox)
+
 
 
 # Web App
